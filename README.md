@@ -1,5 +1,5 @@
 # Global-Car-Manufacturer-Data-Analysis
-World Wide Car Manufacturer Trend Data
+Car Manufacturer Trend Data
 
 Components:
 1. Tesla
