@@ -5,5 +5,6 @@ Car Manufacturer Trend Data with stoc analysis:
 * investment
 
 Components:
-1. Tesla 
+1. Tesla
+2. BMW
 
