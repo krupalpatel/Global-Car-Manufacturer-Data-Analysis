@@ -7,4 +7,4 @@ Car Manufacturer Trend Data with stoc analysis:
 Components:
 1. Tesla
 2. BMW
-
+3. MERCEDES-BENZ
