@@ -10,3 +10,4 @@ Components:
 3. MERCEDES-BENZ
 4. Porche
 5. Volkswagen
+6. Toyota
