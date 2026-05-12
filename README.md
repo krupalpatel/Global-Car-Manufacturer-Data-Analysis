@@ -5,6 +5,7 @@ Car Manufacturer Trend Data with stoc analysis:
 * investment
 * Visuals
 * ML
+* DL
 
 Components:
 1. Tesla
