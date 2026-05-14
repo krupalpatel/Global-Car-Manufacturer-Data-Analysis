@@ -2,7 +2,7 @@
 Car Manufacturer Trend Data with stoc analysis:
 
 * Analysis
-* investment
+* Investment
 * Visuals
 * ML
 
